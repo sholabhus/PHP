@@ -2,8 +2,20 @@ body {
 
     background: rgb(129, 174, 201);
     font-family: "Arial, Helvetica, sans-serif";
-    padding: 3px 6px;
-    text-align: right;
-    width: 150px;
-             ;
+    text-align: center;
+    padding: 10px;
+
 }
+
+.number{
+    color:red;
+    text-transform: capitalize;
+    min-height:10px;
+    margin: 0;
+  padding: 5px;
+  
+  
+
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                   
+

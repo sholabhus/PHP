@@ -1,3 +1,0 @@
-Your login name is:admin
-Your password is:admin@@
-bcrypt algorithm:$2y$10$nRohr2TQTkF5Qo2TmBUL5OU7UFzaJLoWh6FJzspDnl2gm8i9pDVLK
